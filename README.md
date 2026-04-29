@@ -1,1 +1,2 @@
 # CircuitWhisperer
+The goal of this project is to build a simple AI-powered tool that can interpret hand-drawn circuit schematics. It takes an image of a circuit, uses a local vision-language model to identify components (like resistors and capacitors), explains what the circuit likely does, and highlights possible wiring mistakes. The project demonstrates how well AI can understand real-world engineering diagrams and where it still struggles.
